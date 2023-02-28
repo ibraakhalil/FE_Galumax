@@ -1,0 +1,95 @@
+@media only screen and (max-width: 768px) {
+
+    .container {
+        width: 95%;
+    }
+    .header ul {
+        display: flex;
+        align-items: center;
+    }
+    .header-top ul li {
+        width: auto;
+        margin: 0px 10px;
+    }
+    .header-content {
+        width: auto;
+        margin: 0px 0px 0px 85px;
+    }
+    .header-content p {
+        width: auto;
+        font-size: 6vw;
+    }
+    .content {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    .content-left {
+        width: auto;
+        order: 2;
+    }
+    .content-right {
+        width: auto;
+    }
+    .content-left h1 {
+        margin-top: 2rem;
+    }
+
+    .company-news {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        margin-bottom: 3rem;
+    }
+    .cn-left {
+        width: auto;
+        order: 2;
+    }
+    .cn-right {
+        width: auto;
+        position: unset;
+        order: 1;
+        height: auto;
+        padding: 2rem;
+        margin-top: 3rem;
+    }
+    .cn-right h5 {
+        padding: 1rem 0px 37px 0px;
+    }
+    .cn-left-top {
+        width: auto;
+        padding-left: 0px;
+        height: auto;
+        margin-bottom: 2rem;
+    }
+    .cn-left-bottom {
+        height: 80px;
+    }
+
+    .ex-section1 {
+        width: 50%;
+    }
+    .ex-section3 {
+        width: auto;
+        padding: 1rem 0rem;
+        height: auto;
+    }
+    .ex-section3 h3 {
+        width: auto;
+        padding-bottom: 1rem;
+        margin-top: 2rem;
+    }
+    .footer-top-border {
+        height: 200px;
+        margin-top: 10rem;
+    }
+
+
+
+
+
+
+
+
+
+}
